@@ -1,0 +1,49 @@
+b
+div.panel,div.flip,p
+{
+  margin:0px;
+  padding:5px;
+  text-align:center;
+  background:#e5eecc;
+  border:solid 1px #c3c3c3;
+  width:500px;
+  background-color: blanchedalmond;
+
+}
+
+div.panel
+{
+  display:none;
+  
+}
+div.question
+{
+  float:left;
+}
+div.questions
+{
+  height: 20px;
+
+  
+}
+p{
+    text-align: left;
+}
+
+.container {
+    color: rgb(71, 49, 106);
+    margin: 12%;
+    border: thick;
+    
+}
+h1{
+    text-align: center;
+    color: rgb(53, 53, 61);
+    background-color: rgb(225, 211, 228);
+}
+.question pa{
+    color: blue;
+}
+#ty{
+    color: red;
+}
